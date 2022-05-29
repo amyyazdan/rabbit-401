@@ -6,7 +6,7 @@ Lightweight In Memory Key Value Database For Python 3+
 
 ## How to use?
 
-Install package from PyPi using `pip` command in terminal.
+Install package from [PyPi](https://pypi.org/project/rabbit-401/) using `pip` command in terminal.
 
 ```plaintext
 pip install rabbit-401
